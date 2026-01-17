@@ -1,4 +1,4 @@
-# Item Borrowing Management System
+# Item Management System
 
 ## Description
 This project is a simple web-based item borrowing management system developed as an individual academic project.
